@@ -1,0 +1,19 @@
+{
+    "name": "rudiriyandi-uinsu/si-mvc",
+    "description": "Praktikum SI-MVC Pemrograman Berbasis Web Lanjutan 2023",
+    "type": "project",
+    "authors": [
+        {
+            "name": "rudiriyandi-uinsu",
+            "email": "rudiriyandi811@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {
+        "filp/whoops": "^2.14"
+    }
+}
